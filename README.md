@@ -9,17 +9,17 @@
 ![](https://streak-stats.demolab.com/?user=SubhamGtm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhamGtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills 
+## Skills & Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=express,tailwind,vue,java,firebase,git,vscode" />
-</p>
+- **Languages:** Python, JavaScript, TypeScript, Java, HTML5, CSS3
+- **Frontend:** React, Next.js, Three.js, Tailwind CSS, Vue.js
+- **Backend & Database:** Node.js, Express.js, MongoDB, Firebase
+- **Tools & Platforms:** Git, VS Code, Selenium, Android
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android"/>
-</p>
+<div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:12px;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
+</div>
