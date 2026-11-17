@@ -14,10 +14,3 @@
 | React | █████████░░░░░░░░░░░ 55% |
 | Node.js | █████████░░░░░░░░░░░ 50% |
 | CSS / HTML | ████████████░░░░░░░░ 70% |
-
-## Skills & Stack
-
-- **Languages:** Python, JavaScript, TypeScript, Java, HTML5, CSS3
-- **Frontend:** React, Next.js, Three.js, Tailwind CSS, Vue.js
-- **Backend & Database:** Node.js, Express.js, MongoDB, Firebase
-- **Tools & Platforms:** Git, VS Code, Selenium, Android
