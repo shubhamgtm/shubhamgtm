@@ -2,11 +2,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/shubhamgtm"> <img src="https://komarev.com/ghpvc/?username=shubhamgtm&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" /> </a> <a href="https://github.com/shubhamgtm?tab=followers"> <img src="https://img.shields.io/github/followers/shubhamgtm?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="Followers" /> </a> <a href="https://github.com/shubhamgtm?tab=repositories"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubhamgtm&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=BC8CFF" alt="Public repositories" /> </a>
-
-<br/><br/>
-
-<img src="hero.svg" width="720" alt="Animated hooded developer character saying hi" /> </div> <br/>
+<a href="https://github.com/shubhamgtm"> <img src="https://komarev.com/ghpvc/?username=shubhamgtm&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" /> </a> <a href="https://github.com/shubhamgtm?tab=followers"> <img src="https://img.shields.io/github/followers/shubhamgtm?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="Followers" /> </a> <a href="https://github.com/shubhamgtm?tab=repositories"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubhamgtm&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=BC8CFF" alt="Public repositories" /> </a> </div> <br/>
 👨‍💻 About Me
 js
 const shubham = {
