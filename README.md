@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:58A6FF&height=230&section=header&text=Shubham&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Builder%20%E2%80%A2%20Learner%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:58A6FF&height=240&section=header&text=Shubham&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%E2%80%A2%20Bot%20Developer%20%E2%80%A2%20Automation%20Builder&descSize=18&descAlignY=62" width="100%" alt="header" />
 
 <a href="https://github.com/shubhamgtm">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Shubham+%F0%9F%91%8B;I+build+things+for+the+web;Always+learning%2C+always+shipping;Open+to+collaborate+on+cool+projects" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Web+Developer+%F0%9F%8C%90;Bot+Developer+%F0%9F%A4%96;Automation+Builder+%E2%9A%99%EF%B8%8F;Curious+Learner+%F0%9F%93%9A;I+automate+the+boring+stuff+and+ship+the+rest" alt="Typing intro" />
 </a>
 
 <br/><br/>
@@ -22,21 +22,58 @@
 
 <br/>
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on something exciting
-- 🌱 Currently learning new tools and frameworks
-- 🤝 Looking to collaborate on open source projects
-- 💬 Ask me about web development
-- 📍 Based in Nepal 🇳🇵
+```js
+const shubham = {
+  roles: ["Web Developer", "Bot Developer", "Automation Builder"],
+  focus: ["Full-stack web apps", "Chat & community bots", "Workflow automation"],
+  currentlyLearning: ["System design", "Cloud & DevOps", "AI-powered tooling"],
+  mindset: "Curious learner. If it can be automated, I'll build it.",
+  openTo: ["Collaborations", "Open source", "Interesting problems"],
+  location: "Nepal 🇳🇵",
+};
+```
+
+<br/>
+
+## 🚀 What I Do
+
+| 🌐 Web Development | 🤖 Bot Development | ⚙️ Automation |
+| :--- | :--- | :--- |
+| Fast, responsive and accessible websites and full-stack web apps. | Telegram, Discord and other chat bots that handle real tasks for real users. | Scripts, scrapers and workflows that remove repetitive manual work. |
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode&theme=dark" alt="Tech stack" />
-</div>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mongodb,postgres,redis&theme=dark" alt="Backend" />
+
+**Bots & Automation**
+
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman,vercel,netlify&theme=dark" alt="Tools" />
+
+<br/>
+
+## 🌱 Always Learning
+
+- 🔭 Building: bots and automations that solve everyday problems
+- 📚 Exploring: system design, cloud infrastructure and AI tooling
+- 🧪 Experimenting: small projects to learn new tools by shipping them
 
 <br/>
 
@@ -53,6 +90,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+</div>
+
+<br/>
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -62,16 +105,35 @@
 <br/>
 
 <!--
+## 📌 Featured Projects
+Replace REPO_NAME with your repository names, then uncomment.
+
+<div align="center">
+  <a href="https://github.com/shubhamgtm/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamgtm&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shubhamgtm/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamgtm&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/shubhamgtm/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamgtm&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shubhamgtm/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamgtm&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+</div>
+-->
+
+<!--
 ## 🌐 Let's Connect
 Uncomment and fill in whatever you use:
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:58A6FF,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
 </div>
