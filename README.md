@@ -8,6 +8,7 @@ I'm Shubham Gautam, a 17-year-old developer from Nepal who enjoys building websi
 
 I'm passionate about turning ideas into practical digital products. My main interests include web development, Python programming, automation, cybersecurity, and software development.
 <br/>
+
 🚀 What I Do
 🌐 Web Development	🤖 Bot Development	⚙️ Automation
 Fast, responsive and accessible websites and full-stack web apps.	Telegram, Discord and other chat bots that handle real tasks for real users.	Scripts, scrapers and workflows that remove repetitive manual work.
