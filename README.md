@@ -1,4 +1,19 @@
 
+<p align="center">
+  <a href="https://github.com/shubhamgtm">
+    <img src="https://komarev.com/ghpvc/?username=shubhamgtm&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
+  </a>
+  <a href="https://github.com/shubhamgtm?tab=followers">
+    <img src="https://img.shields.io/github/followers/shubhamgtm?label=FOLLOWERS&color=58A6FF&style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/shubhamgtm?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubhamgtm&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=BC8CFF&style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/shubhamgtm?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/shubhamgtm?affiliations=OWNER&label=TOTAL%20STARS&color=F59E0B&style=flat-square&logo=github" />
+  </a>
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_dev.shubham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-gautam-upadhyaya-49a9003b3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ShubhamGtm_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chat.shubhamgtm@gmail.com) 
 
