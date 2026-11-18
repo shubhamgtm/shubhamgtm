@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:58A6FF&height=240&section=header&text=Shubham&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%E2%80%A2%20Bot%20Developer%20%E2%80%A2%20Automation%20Builder&descSize=18&descAlignY=62" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:58A6FF&height=240&section=header&text=Shubham&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Curious%20Learner&descSize=18&descAlignY=62" width="100%" alt="header" />
 
 <a href="https://github.com/shubhamgtm">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Web+Developer+%F0%9F%8C%90;Bot+Developer+%F0%9F%A4%96;Automation+Builder+%E2%9A%99%EF%B8%8F;Curious+Learner+%F0%9F%93%9A;I+automate+the+boring+stuff+and+ship+the+rest" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Developer+%F0%9F%92%BB;Curious+Learner+%F0%9F%93%9A;I+automate+the+boring+stuff+and+ship+the+rest" alt="Typing intro" />
 </a>
 
 <br/><br/>
@@ -26,7 +26,7 @@
 
 ```js
 const shubham = {
-  roles: ["Web Developer", "Bot Developer", "Automation Builder"],
+  roles: ["Developer", "Curious Learner"],
   focus: ["Full-stack web apps", "Chat & community bots", "Workflow automation"],
   currentlyLearning: ["System design", "Cloud & DevOps", "AI-powered tooling"],
   mindset: "Curious learner. If it can be automated, I'll build it.",
