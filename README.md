@@ -3,19 +3,24 @@ div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&c
 <br/><br/>
 
 <a href="https://github.com/shubhamgtm"> <img src="https://komarev.com/ghpvc/?username=shubhamgtm&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" /> </a> <a href="https://github.com/shubhamgtm?tab=followers"> <img src="https://img.shields.io/github/followers/shubhamgtm?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="Followers" /> </a> <a href="https://github.com/shubhamgtm?tab=repositories"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubhamgtm&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=BC8CFF" alt="Public repositories" /> </a> </div> <br/>
-<img width="500" height="282" alt="70160c9398eaedbd915236ce1a925ea4" src="https://github.com/user-attachments/assets/62b4d4c6-272e-4886-b0f1-704e0cdab642" />
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+<img width="500" height="282" alt="Shubham GIF" src="https://github.com/user-attachments/assets/62b4d4c6-272e-4886-b0f1-704e0cdab642" />
+</td>
+<td width="55%" valign="middle">
 
-👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
+
 I'm Shubham Gautam, a 17-year-old developer from Nepal who enjoys building websites, programming tools, and exploring new technologies.
 
 I'm passionate about turning ideas into practical digital products. My main interests include web development, Python programming, automation, cybersecurity, and software development.
-<br/>
 
-🚀 What I Do
-🌐 Web Development	🤖 Bot Development	⚙️ Automation
-Fast, responsive and accessible websites and full-stack web apps.	Telegram, Discord and other chat bots that handle real tasks for real users.	Scripts, scrapers and workflows that remove repetitive manual work.
-<br/>
+</td>
+</tr>
+</table>
+
 🛠️ Tech Stack
 
 Frontend
